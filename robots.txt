@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stormyro.github.io/sitemap.html.gz
+Sitemap: https://stormyro.github.io/app/sitemap.html.gz
+Sitemap: https://stormyro.github.io/assets/sitemap.html.gz
+Sitemap: https://stormyro.github.io/css/sitemap.html.gz
+Sitemap: https://stormyro.github.io/data/sitemap.html.gz
+Sitemap: https://stormyro.github.io/includes/sitemap.html.gz
+Sitemap: https://stormyro.github.io/item/sitemap.html.gz
+Sitemap: https://stormyro.github.io/src/sitemap.html.gz
